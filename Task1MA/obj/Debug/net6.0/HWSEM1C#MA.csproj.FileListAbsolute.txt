@@ -1,0 +1,15 @@
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.csproj.AssemblyReference.cache
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.AssemblyInfoInputs.cache
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.AssemblyInfo.cs
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.csproj.CoreCompileInputs.cache
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/bin/Debug/net6.0/HWSEM1C#MA
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/bin/Debug/net6.0/HWSEM1C#MA.deps.json
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/bin/Debug/net6.0/HWSEM1C#MA.runtimeconfig.json
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/bin/Debug/net6.0/HWSEM1C#MA.dll
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/bin/Debug/net6.0/HWSEM1C#MA.pdb
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.dll
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/refint/HWSEM1C#MA.dll
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.pdb
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/HWSEM1C#MA.genruntimeconfig.cache
+/Users/mariashiraeva/Desktop/HWSEM1C#MA/obj/Debug/net6.0/ref/HWSEM1C#MA.dll
